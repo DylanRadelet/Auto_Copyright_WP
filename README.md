@@ -1,5 +1,6 @@
 # Auto_Copyright_WP
 WordPress plugin to automatically change the Copyright.
+Please attribute the plugin to [Your Name] when used.
 
 === Auto Copyright Date ===
 Contributors: Dylan RADELET
