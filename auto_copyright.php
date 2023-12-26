@@ -147,4 +147,7 @@ function auto_copyright_shortcode()
     return "<span $class_attribute style='$style'>&copy; $year $site_name</span>";
 }
 add_shortcode('copyright_date', 'auto_copyright_shortcode');
+
+// Please attribute the plugin to Dylan RADELET when used.
+
 ?>
